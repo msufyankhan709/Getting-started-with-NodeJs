@@ -6,3 +6,6 @@ if(number>12){
 else if(number<12){
     console.log("Lower number");
 }
+setInterval(()=>{
+    console.log("Hello");
+},1000)
