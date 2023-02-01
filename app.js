@@ -10,5 +10,6 @@ setInterval(()=>{
     console.log("Hello");
 },1000)
 
+// using modules
 const sayHi=require('./functions')
 sayHi('Hello')
