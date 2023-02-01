@@ -9,3 +9,6 @@ else if(number<12){
 setInterval(()=>{
     console.log("Hello");
 },1000)
+
+const sayHi=require('./functions')
+sayHi('Hello')
