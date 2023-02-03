@@ -1,6 +1,8 @@
-const sayHi=(name)=>{
-    console.log(`Hi ${name}`);
-}
+const sayHi = (name) => {
+  console.log(`Hi ${name}`);
+};
+
+
 // sayHi('Sufyan');
 
-module.exports=sayHi
+module.exports = sayHi;
